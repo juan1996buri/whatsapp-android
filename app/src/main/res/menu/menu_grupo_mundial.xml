@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_more"
+        android:title="Item"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/informacion_grupo_mundial"
+                android:title="Informacion del grupo" />
+            <item
+                android:id="@+id/configuracion_grupo_mundial"
+                android:title="Configuracion del grupo" />
+            <item
+                android:id="@+id/eliminar_grupo_mundial"
+                android:title="Eliminar grupo" />
+        </menu>
+    </item>
+</menu>

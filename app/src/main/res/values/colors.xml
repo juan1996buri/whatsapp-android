@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="TomatoeDark">#0E1D25</color>
+    <color name="Tomatoe">#162C34</color>
+
+    <color name="Read">#F44336</color>
+
+    <color name="azul">#162C34</color>
+    <color name="azulOscuro">#0E1D25</color>
+    <color name="letras">#2A6971</color>
+    <color name="Green">#00FF0A</color>
+
+
+    <color name="Tomate">#FC5328</color>
+    <color name="Amarillo">#FDAD1A</color>
+    <color name="Azul">#697FE2</color>
+    <color name="Morado">#7C6DBD</color>
+    <color name="Verde">#8EE9A6</color>
+
+    <color name="MensajeEnviado">#162C34</color>
+    <color name="MensajeRecibido">#006064</color>
+    <color name="visto">#00e5ff</color>
+
+    <color name="Promo">#626467</color>
+    
+    <color name="toolbar">#009688</color>
+    <color name="barra">#00695c</color>
+    <color name="fondoContenido">#e0f2f1</color>
+    <color name="item">#4db6ac</color>
+
+    <color name="titulo">#00695c</color>
+    <color name="subtitulo">#00897b</color>
+
+    <color name="marcarItem">#00695c</color>
+</resources>

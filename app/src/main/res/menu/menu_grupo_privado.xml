@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:icon="@drawable/ic_more"
+        android:id="@+id/btrmore"
+        android:title="mas"
+        app:showAsAction="always">
+        <menu >
+            <item
+                android:id="@+id/informacion_grupo_privado"
+                android:title="Informacion del grupo" />
+            <item
+                android:id="@+id/configurar_grupo"
+                android:title="Configuracion del grupo" />
+            <item
+                android:id="@+id/agregar_amigo_al_grupo"
+                android:title="Agregar amigo al grupo" />
+            <item
+                android:id="@+id/todos_los_miembros"
+                android:title="Todos los miembros" />
+            <item
+                android:id="@+id/eliminar_amigos_del_grupo"
+                android:title="Eliminar Integrantes" />
+            <item
+                android:id="@+id/eliminar_el_grupo"
+                android:title="Eliminar el grupo" />
+            <item
+                android:id="@+id/salir_del_grupo"
+                android:title="Salir del grupo" />
+        </menu>
+    </item>
+</menu>

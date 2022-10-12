@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:icon="@drawable/ic_more"
+        android:id="@+id/btrmore"
+        android:title="mas"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/item_añadir_amigo"
+                android:icon="@drawable/ic_solicitudes"
+                android:title="Añadir amigo"
+                />
+            <item
+                android:id="@+id/item_solicitud_amistad"
+                android:icon="@drawable/ic_amigo"
+                android:title="Solicitud de Amistad" />
+            <item
+                android:id="@+id/item_grupo"
+                android:icon="@drawable/ic_grupos"
+                android:title="Crear grupo" />
+
+            <item
+                android:id="@+id/item_configuracion_perfil"
+                android:icon="@drawable/ic_configu"
+                android:title="Configurar perfil" />
+            <item
+                android:id="@+id/item_cerrar_secion"
+                android:icon="@drawable/ic_cerrar"
+                android:title="Cerrar sesion" />
+        </menu>
+    </item>
+
+</menu>
